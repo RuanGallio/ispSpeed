@@ -1,0 +1,1124 @@
+1660852759771	geckodriver	INFO	Listening on 127.0.0.1:39443
+1660852827581	geckodriver	INFO	Listening on 127.0.0.1:58295
+1660852929266	geckodriver	INFO	Listening on 127.0.0.1:59885
+1660852929305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44429" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZyFan9"
+
+(firefox:19525): Gtk-WARNING **: 17:02:09.567: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:19525): Gtk-WARNING **: 17:02:09.631: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660852929795	Marionette	INFO	Marionette enabled
+1660852929798	Marionette	INFO	Listening on port 33101
+WebDriver BiDi listening on ws://localhost:44429
+Read port: 33101
+1660852929899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZyFan9/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44429/devtools/browser/66d2b4c6-ab48-474f-9786-ac704f974d07
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660852934327	Marionette	INFO	Stopped listening on port 33101
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+1660854181492	geckodriver	INFO	Listening on 127.0.0.1:57675
+1660854181529	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58123" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9sO9ah"
+
+(firefox:21112): Gtk-WARNING **: 17:23:01.769: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:21112): Gtk-WARNING **: 17:23:01.831: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660854181988	Marionette	INFO	Marionette enabled
+1660854181990	Marionette	INFO	Listening on port 34619
+WebDriver BiDi listening on ws://localhost:58123
+Read port: 34619
+1660854182082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9sO9ah/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58123/devtools/browser/7c8f4959-fb61-4bf4-b0ee-6155ff977f8a
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660854225015	Marionette	INFO	Stopped listening on port 34619
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660854226479	geckodriver	INFO	Listening on 127.0.0.1:51021
+1660854226515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1EKy32"
+
+(firefox:21580): Gtk-WARNING **: 17:23:46.756: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:21580): Gtk-WARNING **: 17:23:46.818: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660854226978	Marionette	INFO	Marionette enabled
+1660854226980	Marionette	INFO	Listening on port 43049
+WebDriver BiDi listening on ws://localhost:58975
+Read port: 43049
+1660854227068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1EKy32/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58975/devtools/browser/5c4ba4f9-ab1b-473e-b9ad-86aa97bad324
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660854284728	Marionette	INFO	Stopped listening on port 43049
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660854633390	geckodriver	INFO	Listening on 127.0.0.1:34253
+1660854633425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFli0ge"
+
+(firefox:22721): Gtk-WARNING **: 17:30:33.666: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:22721): Gtk-WARNING **: 17:30:33.729: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660854633889	Marionette	INFO	Marionette enabled
+1660854633890	Marionette	INFO	Listening on port 44269
+WebDriver BiDi listening on ws://localhost:42359
+Read port: 44269
+1660854633995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFli0ge/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:42359/devtools/browser/e5b38cda-99d7-44e0-a0d6-33cc80540e49
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 709: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 709: WebGL context was lost.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660854718007	Marionette	INFO	Stopped listening on port 44269
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660854730274	geckodriver	INFO	Listening on 127.0.0.1:38077
+1660854730310	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37269" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1pIopC"
+
+(firefox:23465): Gtk-WARNING **: 17:32:10.554: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:23465): Gtk-WARNING **: 17:32:10.616: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660854730773	Marionette	INFO	Marionette enabled
+1660854730775	Marionette	INFO	Listening on port 33855
+WebDriver BiDi listening on ws://localhost:37269
+Read port: 33855
+1660854730866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1pIopC/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37269/devtools/browser/d5ffb6c6-6757-4bea-8c45-85ff4a5c6414
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660854757382	Marionette	INFO	Stopped listening on port 33855
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660854777306	geckodriver	INFO	Listening on 127.0.0.1:38279
+1660854777340	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43377" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledJQUin"
+
+(firefox:23935): Gtk-WARNING **: 17:32:57.583: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:23935): Gtk-WARNING **: 17:32:57.645: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660854777807	Marionette	INFO	Marionette enabled
+1660854777809	Marionette	INFO	Listening on port 37103
+WebDriver BiDi listening on ws://localhost:43377
+Read port: 37103
+1660854777900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledJQUin/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:43377/devtools/browser/a67b5331-a6b5-4571-b057-7698254b9cd6
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660854795535	Marionette	INFO	Stopped listening on port 37103
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660854864974	geckodriver	INFO	Listening on 127.0.0.1:46253
+1660854865010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletCAL6E"
+
+(firefox:24427): Gtk-WARNING **: 17:34:25.253: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:24427): Gtk-WARNING **: 17:34:25.315: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660854865470	Marionette	INFO	Marionette enabled
+1660854865472	Marionette	INFO	Listening on port 34507
+WebDriver BiDi listening on ws://localhost:36621
+Read port: 34507
+1660854865561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletCAL6E/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36621/devtools/browser/526f8df2-b910-4bb6-ba59-5e2affa6a867
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660854970449	Marionette	INFO	Stopped listening on port 34507
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660855044313	geckodriver	INFO	Listening on 127.0.0.1:49411
+1660855044846	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42293" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOh4fan"
+
+(firefox:25022): Gtk-WARNING **: 17:37:25.087: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:25022): Gtk-WARNING **: 17:37:25.149: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660855045305	Marionette	INFO	Marionette enabled
+1660855045308	Marionette	INFO	Listening on port 38803
+WebDriver BiDi listening on ws://localhost:42293
+Read port: 38803
+1660855045396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOh4fan/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:42293/devtools/browser/9e23a32a-e8e1-41ff-acd9-6d7052d22181
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660857575816	Marionette	INFO	Stopped listening on port 38803
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660857576942	geckodriver	INFO	Listening on 127.0.0.1:33143
+1660857576978	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48053" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2irEu0"
+
+(firefox:26386): Gtk-WARNING **: 18:19:37.215: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:26386): Gtk-WARNING **: 18:19:37.277: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660857577432	Marionette	INFO	Marionette enabled
+1660857577434	Marionette	INFO	Listening on port 41241
+WebDriver BiDi listening on ws://localhost:48053
+Read port: 41241
+1660857577526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2irEu0/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48053/devtools/browser/1d751ac4-7b1d-43cf-9f78-95622e3bfff9
+1660857737358	geckodriver	INFO	Listening on 127.0.0.1:36039
+1660857737395	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58537" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOlFmjh"
+
+(firefox:27187): Gtk-WARNING **: 18:22:17.636: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:27187): Gtk-WARNING **: 18:22:17.699: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660857737852	Marionette	INFO	Marionette enabled
+1660857737854	Marionette	INFO	Listening on port 44935
+WebDriver BiDi listening on ws://localhost:58537
+Read port: 44935
+1660857737940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOlFmjh/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58537/devtools/browser/c01c6f3c-8efa-4fa9-9bd5-c0f404712647
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660857922825	Marionette	INFO	Stopped listening on port 44935
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660857932849	geckodriver	INFO	Listening on 127.0.0.1:54499
+1660857932886	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34727" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQrrYti"
+
+(firefox:28048): Gtk-WARNING **: 18:25:33.141: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:28048): Gtk-WARNING **: 18:25:33.204: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660857933361	Marionette	INFO	Marionette enabled
+1660857933363	Marionette	INFO	Listening on port 41429
+WebDriver BiDi listening on ws://localhost:34727
+Read port: 41429
+1660857933452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQrrYti/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34727/devtools/browser/a037f3e2-d76c-449f-ba3a-3113a32268e1
+1660858035791	Marionette	INFO	Stopped listening on port 41429
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660858272235	geckodriver	INFO	Listening on 127.0.0.1:43493
+1660858272271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59261" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilectQ8zq"
+
+(firefox:28761): Gtk-WARNING **: 18:31:12.520: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:28761): Gtk-WARNING **: 18:31:12.582: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660858272733	Marionette	INFO	Marionette enabled
+1660858272735	Marionette	INFO	Listening on port 45637
+WebDriver BiDi listening on ws://localhost:59261
+Read port: 45637
+1660858272824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilectQ8zq/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59261/devtools/browser/95108bd9-0a21-4178-875c-d5941712f3bb
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660858416448	Marionette	INFO	Stopped listening on port 41241
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660858645063	geckodriver	INFO	Listening on 127.0.0.1:33199
+1660858645099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59225" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileW3zd0o"
+
+(firefox:29534): Gtk-WARNING **: 18:37:25.351: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:29534): Gtk-WARNING **: 18:37:25.419: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660858645594	Marionette	INFO	Marionette enabled
+1660858645597	Marionette	INFO	Listening on port 42423
+Read port: 42423
+WebDriver BiDi listening on ws://localhost:59225
+1660858645724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileW3zd0o/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59225/devtools/browser/0c3c4fd8-fab2-4e7b-b409-2366a82b70d4
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1660858865175	geckodriver	INFO	Listening on 127.0.0.1:33159
+1660858865212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57535" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiUnxtT"
+
+(firefox:30330): Gtk-WARNING **: 18:41:05.455: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:30330): Gtk-WARNING **: 18:41:05.517: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660858865702	Marionette	INFO	Marionette enabled
+1660858865704	Marionette	INFO	Listening on port 45443
+WebDriver BiDi listening on ws://localhost:57535
+Read port: 45443
+1660858865817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiUnxtT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57535/devtools/browser/782729b1-bc56-4246-89a7-cabe7402514b
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1660859246890	geckodriver	INFO	Listening on 127.0.0.1:33579
+1660859246927	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50423" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexzCSOZ"
+
+(firefox:31439): Gtk-WARNING **: 18:47:27.176: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:31439): Gtk-WARNING **: 18:47:27.239: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660859247408	Marionette	INFO	Marionette enabled
+1660859247410	Marionette	INFO	Listening on port 37093
+WebDriver BiDi listening on ws://localhost:50423
+Read port: 37093
+1660859247511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexzCSOZ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50423/devtools/browser/c9711231-2fb5-4f84-b2fc-d4335e1504ad
+1660859351221	geckodriver	INFO	Listening on 127.0.0.1:35187
+1660859351257	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49533" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebhXCuy"
+
+(firefox:32015): Gtk-WARNING **: 18:49:11.504: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:32015): Gtk-WARNING **: 18:49:11.569: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660859351731	Marionette	INFO	Marionette enabled
+1660859351733	Marionette	INFO	Listening on port 37023
+WebDriver BiDi listening on ws://localhost:49533
+Read port: 37023
+1660859351822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebhXCuy/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49533/devtools/browser/8b342032-60c0-429c-b04d-d630957eedef
+1660859451865	geckodriver	INFO	Listening on 127.0.0.1:34973
+1660859451902	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55889" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDieaSU"
+
+(firefox:32759): Gtk-WARNING **: 18:50:52.149: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:32759): Gtk-WARNING **: 18:50:52.212: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660859452375	Marionette	INFO	Marionette enabled
+1660859452378	Marionette	INFO	Listening on port 45251
+WebDriver BiDi listening on ws://localhost:55889
+Read port: 45251
+1660859452467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDieaSU/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55889/devtools/browser/3a7205e2-8ab1-46af-bdc3-00e42e7fd7d4
+1660859553156	geckodriver	INFO	Listening on 127.0.0.1:57923
+1660859553236	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46981" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTl7on2"
+
+(firefox:33310): Gtk-WARNING **: 18:52:33.554: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:33310): Gtk-WARNING **: 18:52:33.616: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660859553775	Marionette	INFO	Marionette enabled
+1660859553777	Marionette	INFO	Listening on port 33979
+WebDriver BiDi listening on ws://localhost:46981
+Read port: 33979
+1660859553884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTl7on2/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:46981/devtools/browser/1abe4b10-88bc-4b14-be28-69efa12e3418
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660859565716	Marionette	INFO	Stopped listening on port 37093
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660859566649	Marionette	INFO	Stopped listening on port 37023
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660859567475	Marionette	INFO	Stopped listening on port 45251
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660860117551	geckodriver	INFO	Listening on 127.0.0.1:47209
+1660860117589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56583" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelQYJAu"
+
+(firefox:34739): Gtk-WARNING **: 19:01:57.831: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:34739): Gtk-WARNING **: 19:01:57.894: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660860118049	Marionette	INFO	Marionette enabled
+1660860118051	Marionette	INFO	Listening on port 33023
+WebDriver BiDi listening on ws://localhost:56583
+Read port: 33023
+1660860118141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelQYJAu/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56583/devtools/browser/10b3caa3-7092-49e9-af15-108d21c696dc
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660860122012	Marionette	INFO	Stopped listening on port 33979
+1660860218142	geckodriver	INFO	Listening on 127.0.0.1:34525
+1660860218181	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46761" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelMXshI"
+
+(firefox:35296): Gtk-WARNING **: 19:03:38.434: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:35296): Gtk-WARNING **: 19:03:38.498: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660860218657	Marionette	INFO	Marionette enabled
+1660860218660	Marionette	INFO	Listening on port 36445
+WebDriver BiDi listening on ws://localhost:46761
+Read port: 36445
+1660860218749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelMXshI/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:46761/devtools/browser/dc1a2c50-43e3-446a-a069-9835a9f91d17
+1660860592267	geckodriver	INFO	Listening on 127.0.0.1:41861
+1660860592307	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37865" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegdRpVa"
+
+(firefox:36413): Gtk-WARNING **: 19:09:52.588: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:36413): Gtk-WARNING **: 19:09:52.650: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660860592812	Marionette	INFO	Marionette enabled
+1660860592814	Marionette	INFO	Listening on port 34007
+WebDriver BiDi listening on ws://localhost:37865
+Read port: 34007
+1660860592996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegdRpVa/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37865/devtools/browser/769b1514-d151-4984-b61b-567c30a8d41b
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660860595862	Marionette	INFO	Stopped listening on port 33023
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660860601326	Marionette	INFO	Stopped listening on port 36445
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+
+(firefox:36413): Gtk-WARNING **: 19:12:10.137: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:36413): Gtk-WARNING **: 19:12:10.215: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+
+(firefox:36413): Gtk-WARNING **: 19:41:10.160: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:36413): Gtk-WARNING **: 19:41:10.235: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Exiting due to channel error.
+Exiting due to channel error.
+1660913472635	geckodriver	INFO	Listening on 127.0.0.1:35185
+1660913473168	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFrnoCZ"
+
+(firefox:7364): Gtk-WARNING **: 09:51:13.530: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:7364): Gtk-WARNING **: 09:51:13.592: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660913473749	Marionette	INFO	Marionette enabled
+1660913473752	Marionette	INFO	Listening on port 46503
+WebDriver BiDi listening on ws://localhost:53755
+Read port: 46503
+1660913473842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFrnoCZ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:53755/devtools/browser/7abea414-bcfc-45c7-a57c-dad3c19d17a1
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660914131378	Marionette	INFO	Stopped listening on port 46503
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660914137533	geckodriver	INFO	Listening on 127.0.0.1:59585
+1660914137567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41875" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileA0KA8A"
+
+(firefox:8718): Gtk-WARNING **: 10:02:17.805: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:8718): Gtk-WARNING **: 10:02:17.867: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660914138018	Marionette	INFO	Marionette enabled
+1660914138020	Marionette	INFO	Listening on port 42681
+WebDriver BiDi listening on ws://localhost:41875
+Read port: 42681
+1660914138106	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileA0KA8A/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41875/devtools/browser/13cc08ac-3122-4903-85c9-f2295af9366c
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1660914237597	geckodriver	INFO	Listening on 127.0.0.1:51449
+1660914237632	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47511" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOQdlXH"
+
+(firefox:9239): Gtk-WARNING **: 10:03:57.870: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:9239): Gtk-WARNING **: 10:03:57.931: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660914238080	Marionette	INFO	Marionette enabled
+1660914238082	Marionette	INFO	Listening on port 45905
+WebDriver BiDi listening on ws://localhost:47511
+Read port: 45905
+1660914238168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOQdlXH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47511/devtools/browser/871eb54b-a35e-45e7-b2f4-a6c57c01d489
+1660914574033	geckodriver	INFO	Listening on 127.0.0.1:51955
+1660914574067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50699" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVcLM1D"
+
+(firefox:10390): Gtk-WARNING **: 10:09:34.301: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:10390): Gtk-WARNING **: 10:09:34.361: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660914574507	Marionette	INFO	Marionette enabled
+1660914574510	Marionette	INFO	Listening on port 35251
+WebDriver BiDi listening on ws://localhost:50699
+Read port: 35251
+1660914574598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVcLM1D/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50699/devtools/browser/d59162a9-7b3a-4af8-8a12-4d4e1cf4d216
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660914576462	Marionette	INFO	Stopped listening on port 45905
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660914763436	geckodriver	INFO	Listening on 127.0.0.1:35253
+1660914763470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57935" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileShVnHR"
+
+(firefox:11249): Gtk-WARNING **: 10:12:43.714: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:11249): Gtk-WARNING **: 10:12:43.775: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660914763931	Marionette	INFO	Marionette enabled
+1660914763933	Marionette	INFO	Listening on port 45887
+WebDriver BiDi listening on ws://localhost:57935
+Read port: 45887
+1660914764028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileShVnHR/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57935/devtools/browser/6232933e-2737-40fd-addf-36b0b8dd2b03
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1660914985083	geckodriver	INFO	Listening on 127.0.0.1:36333
+1660914985119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34339" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilei2Aig0"
+
+(firefox:12058): Gtk-WARNING **: 10:16:25.371: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:12058): Gtk-WARNING **: 10:16:25.436: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660914985591	Marionette	INFO	Marionette enabled
+1660914985593	Marionette	INFO	Listening on port 41783
+WebDriver BiDi listening on ws://localhost:34339
+Read port: 41783
+1660914985687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilei2Aig0/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34339/devtools/browser/a3b0c385-8ef7-404f-8f32-20884c8b5846
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660914996316	Marionette	INFO	Stopped listening on port 35251
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1660915216501	geckodriver	INFO	Listening on 127.0.0.1:39555
+1660915216536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42723" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledwr2z2"
+
+(firefox:13367): Gtk-WARNING **: 10:20:16.780: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:13367): Gtk-WARNING **: 10:20:16.841: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660915217011	Marionette	INFO	Marionette enabled
+1660915217014	Marionette	INFO	Listening on port 37667
+WebDriver BiDi listening on ws://localhost:42723
+Read port: 37667
+1660915217128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledwr2z2/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:42723/devtools/browser/de503a06-3014-4f25-8453-b25773898d42
+1660921103349	geckodriver	INFO	Listening on 127.0.0.1:54689
+1660921103891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37059" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0hElnL"
+
+(firefox:33999): Gtk-WARNING **: 11:58:24.201: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:33999): Gtk-WARNING **: 11:58:24.267: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660921104428	Marionette	INFO	Marionette enabled
+1660921104431	Marionette	INFO	Listening on port 44203
+WebDriver BiDi listening on ws://localhost:37059
+Read port: 44203
+1660921104535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0hElnL/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37059/devtools/browser/e17e8c5d-7966-43fa-83f9-b6ad5332fab2
+1660921120394	geckodriver	INFO	Listening on 127.0.0.1:34185
+1660921120432	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48113" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledBvLNV"
+
+(firefox:34445): Gtk-WARNING **: 11:58:40.673: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:34445): Gtk-WARNING **: 11:58:40.735: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660921120892	Marionette	INFO	Marionette enabled
+1660921120894	Marionette	INFO	Listening on port 39601
+WebDriver BiDi listening on ws://localhost:48113
+Read port: 39601
+1660921120983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledBvLNV/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48113/devtools/browser/d93df37a-b37d-4ef3-8a26-f91c8bfdc8a8
+1660921166086	geckodriver	INFO	Listening on 127.0.0.1:34669
+1660921166126	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewuqNjk"
+
+(firefox:34837): Gtk-WARNING **: 11:59:26.365: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:34837): Gtk-WARNING **: 11:59:26.427: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660921166583	Marionette	INFO	Marionette enabled
+1660921166585	Marionette	INFO	Listening on port 38939
+WebDriver BiDi listening on ws://localhost:59419
+Read port: 38939
+1660921166674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewuqNjk/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59419/devtools/browser/e499eae7-6a9a-42ea-b822-7bde7bea7351
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660921281750	Marionette	INFO	Stopped listening on port 38939
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660921283908	Marionette	INFO	Stopped listening on port 37667
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660921285080	Marionette	INFO	Stopped listening on port 44203
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660921286155	Marionette	INFO	Stopped listening on port 39601
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660921289480	geckodriver	INFO	Listening on 127.0.0.1:33365
+1660921289515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52949" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiles9EF0X"
+
+(firefox:35389): Gtk-WARNING **: 12:01:29.765: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:35389): Gtk-WARNING **: 12:01:29.829: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660921289986	Marionette	INFO	Marionette enabled
+1660921289988	Marionette	INFO	Listening on port 32851
+WebDriver BiDi listening on ws://localhost:52949
+Read port: 32851
+1660921290081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiles9EF0X/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52949/devtools/browser/7addbdde-5abf-4ebc-8ee2-c772ede131f2
+1660921361065	geckodriver	INFO	Listening on 127.0.0.1:50211
+1660921361101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41799" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRHOKlA"
+
+(firefox:35855): Gtk-WARNING **: 12:02:41.352: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:35855): Gtk-WARNING **: 12:02:41.417: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660921361571	Marionette	INFO	Marionette enabled
+1660921361573	Marionette	INFO	Listening on port 39287
+WebDriver BiDi listening on ws://localhost:41799
+Read port: 39287
+1660921361664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRHOKlA/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41799/devtools/browser/42712a76-3976-4320-a457-5d0bef03bd0a
+1660921362456	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921406165	geckodriver	INFO	Listening on 127.0.0.1:44235
+1660921406202	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33807" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehRa1gh"
+
+(firefox:36268): Gtk-WARNING **: 12:03:26.455: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:36268): Gtk-WARNING **: 12:03:26.519: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660921406678	Marionette	INFO	Marionette enabled
+1660921406680	Marionette	INFO	Listening on port 45035
+WebDriver BiDi listening on ws://localhost:33807
+Read port: 45035
+1660921406772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehRa1gh/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33807/devtools/browser/07b3762f-d33c-462c-a31e-6d81158a735b
+1660921407630	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921407698	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921407754	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921407808	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921407869	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921407940	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921407998	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921408065	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921408123	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921408178	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921408230	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921408288	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921408346	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921408398	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921408455	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921408511	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921408562	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921408613	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921408668	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921408720	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921408774	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921408828	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921408879	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921408936	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921408990	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921409044	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921409096	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921409153	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921409207	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921409260	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921409316	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921409368	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921409420	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921409474	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921409528	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921409585	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921409639	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921409693	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921409745	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921409802	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921409862	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921409925	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921409977	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921410029	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921410085	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921410137	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921410202	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921410254	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921410310	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921410367	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921410417	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921410471	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921410525	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921410577	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921410635	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921410684	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921410733	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921410783	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921410835	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921410886	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921410940	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921410992	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921411047	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921411100	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921411156	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921411208	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921411258	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921411313	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921411375	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921411425	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921411476	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921411533	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921411588	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921411640	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921411692	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921411747	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921411798	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921411849	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921411900	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921411958	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921412015	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921412071	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921412122	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921412174	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921412230	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921412281	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921412336	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921412387	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921412440	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921412496	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921412547	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921412613	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660921412669	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1660921476757	geckodriver	INFO	Listening on 127.0.0.1:42607
+1660921476796	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56665" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileT2t1IG"
+
+(firefox:36827): Gtk-WARNING **: 12:04:37.063: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:36827): Gtk-WARNING **: 12:04:37.128: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660921477287	Marionette	INFO	Marionette enabled
+1660921477289	Marionette	INFO	Listening on port 35409
+WebDriver BiDi listening on ws://localhost:56665
+Read port: 35409
+1660921477383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileT2t1IG/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56665/devtools/browser/5bbeff24-7091-41a9-a555-52ae7a53a2d7
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660921497488	Marionette	INFO	Stopped listening on port 35409
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660921518003	geckodriver	INFO	Listening on 127.0.0.1:56363
+1660921518038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36153" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexDpaOH"
+
+(firefox:37313): Gtk-WARNING **: 12:05:18.282: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:37313): Gtk-WARNING **: 12:05:18.345: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660921518499	Marionette	INFO	Marionette enabled
+1660921518501	Marionette	INFO	Listening on port 33429
+WebDriver BiDi listening on ws://localhost:36153
+Read port: 33429
+1660921518588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexDpaOH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36153/devtools/browser/214cf25a-16ac-46d1-8a5c-a251e36a1e43
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660921637994	Marionette	INFO	Stopped listening on port 32851
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660921639360	Marionette	INFO	Stopped listening on port 39287
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/doh-providers Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:117:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:121:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:859:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:764:38
+
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660926945306	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660927005436	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660927065528	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660927125608	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660927185694	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660927245778	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660927305896	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660927365969	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660927426081	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660927486198	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660927546274	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660927606342	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660927666446	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660927726556	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660927786668	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1660927846794	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+Exiting due to channel error.
+Exiting due to channel error.
+1660934567438	geckodriver	INFO	Listening on 127.0.0.1:54287
+1660934567970	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileh4T3NC"
+
+(firefox:5610): Gtk-WARNING **: 15:42:48.228: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:5610): Gtk-WARNING **: 15:42:48.292: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660934568447	Marionette	INFO	Marionette enabled
+1660934568449	Marionette	INFO	Listening on port 34067
+WebDriver BiDi listening on ws://localhost:56205
+Read port: 34067
+1660934568539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileh4T3NC/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56205/devtools/browser/5faf046a-8085-4cd1-9cf8-ac00be0a79c7
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1660934686627	geckodriver	INFO	Listening on 127.0.0.1:40833
+1660934687159	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41017" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefB8SCA"
+
+(firefox:7631): Gtk-WARNING **: 15:44:47.409: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:7631): Gtk-WARNING **: 15:44:47.470: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660934687621	Marionette	INFO	Marionette enabled
+1660934687623	Marionette	INFO	Listening on port 36245
+WebDriver BiDi listening on ws://localhost:41017
+Read port: 36245
+1660934687715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefB8SCA/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41017/devtools/browser/c8fed6b8-1295-4b74-8c7d-b9bcf2eed609
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1660935470453	geckodriver	INFO	Listening on 127.0.0.1:49971
+1660935470487	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47575" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6pohMe"
+
+(firefox:9160): Gtk-WARNING **: 15:57:50.722: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:9160): Gtk-WARNING **: 15:57:50.784: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660935470934	Marionette	INFO	Marionette enabled
+1660935470936	Marionette	INFO	Listening on port 35297
+WebDriver BiDi listening on ws://localhost:47575
+Read port: 35297
+1660935471022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6pohMe/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47575/devtools/browser/1a49487b-cd78-473f-a9b6-5d1682acf181
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1660935553930	geckodriver	INFO	Listening on 127.0.0.1:54357
+1660935553964	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51125" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRphyWk"
+
+(firefox:9722): Gtk-WARNING **: 15:59:14.202: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:9722): Gtk-WARNING **: 15:59:14.263: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660935554413	Marionette	INFO	Marionette enabled
+1660935554415	Marionette	INFO	Listening on port 38837
+WebDriver BiDi listening on ws://localhost:51125
+Read port: 38837
+1660935554502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRphyWk/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51125/devtools/browser/d3956888-bc41-49d8-b971-402a37360382
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1660935564565	geckodriver	INFO	Listening on 127.0.0.1:35889
+1660935564601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52841" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeVVAZo"
+
+(firefox:10125): Gtk-WARNING **: 15:59:24.837: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+
+(firefox:10125): Gtk-WARNING **: 15:59:24.898: Theme parsing error: gtk.css:19030:28: Junk at end of value for background-color
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660935565050	Marionette	INFO	Marionette enabled
+1660935565052	Marionette	INFO	Listening on port 44469
+WebDriver BiDi listening on ws://localhost:52841
+Read port: 44469
+1660935565142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeVVAZo/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52841/devtools/browser/4eb9920a-cf59-43cb-a234-cd6340f47cb8
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660938708299	Marionette	INFO	Stopped listening on port 44469
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
